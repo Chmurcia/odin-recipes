@@ -1,1 +1,2 @@
-# odin-recipes
+This project is my first non-typical lesson on Odin project. Now I will check each ability I've acquired. I am going to create a website about recipes with my
+favourite food! Including: Sushi, Pizza and pancakes!
